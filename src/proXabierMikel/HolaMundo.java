@@ -16,7 +16,11 @@ public class HolaMundo {
 
 		System.out.println("cambio conflicto");
 		
+<<<<<<< HEAD
 		System.out.println("Cambio postRama ");
+=======
+		System.out.println("modificacion en la rama principal");
+>>>>>>> refs/heads/master
 
 	}
 
