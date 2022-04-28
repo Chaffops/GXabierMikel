@@ -13,8 +13,9 @@ public class HolaMundo {
 		
 		System.out.println("cuarto cambio");
 		
-		
-		System.out.println("cabio conflicto usuario2");
+
+		System.out.println("cambio conflicto");
+
 	}
 
 }
